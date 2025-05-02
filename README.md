@@ -21,8 +21,8 @@
   ✅ Настройка CI/CD
   
   ## 📈 Статистика
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=user116RUS&show_icons=true&theme=dark)](https://github.com/user116RUS)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user116RUS&layout=compact&theme=dark)](https://github.com/user116RUS)
   
   ## 📬 Контакты
   [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?logo=telegram&logoColor=white)](https://t.me/Itjget)
