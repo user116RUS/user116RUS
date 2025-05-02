@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   
   ![Palestine Flag](https://media1.tenor.com/m/LVKlUQCV9M4AAAAC/palestine-flag-palestine.gif)
   
@@ -21,7 +21,7 @@
   ✅ Настройка CI/CD
   
   ## 📈 Статистика
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=user116RUS&show_icons=true&theme=dark)](https://github.com/user116RUS)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=user116RUS&show_icons=true&theme=dark)](https://github.com/user116RUS)<br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user116RUS&layout=compact&theme=dark)](https://github.com/user116RUS)
   
   ## 📬 Контакты
