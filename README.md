@@ -10,6 +10,7 @@
   ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
+  ![NGINX](https://img.shields.io/badge/-NGINX-269539?logo=nginx&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
   
   ## 💼 Услуги
@@ -26,6 +27,6 @@
   ## 📬 Контакты
   [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?logo=telegram&logoColor=white)](https://t.me/Itjget)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
+  ![Profile Views](https://komarev.com/ghpvc/?username=user116RUS&color=blue&style=flat)
   
 </div>
