@@ -1,7 +1,5 @@
 <div align="left">
-  
-  ![Palestine Flag](https://media1.tenor.com/m/LVKlUQCV9M4AAAAC/palestine-flag-palestine.gif)
-  
+    
   # 🚀 Python Automation Engineer
   **Превращаю рутину в автоматизированные решения**
   
